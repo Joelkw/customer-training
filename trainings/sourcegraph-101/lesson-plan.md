@@ -336,9 +336,7 @@ As a developer, I may want to track the progress of changes in my code—seeing 
 * How to track versions using a `Detect and track patterns` Insight from the Insight creation page
 * How to create a `Track changes` Insight from search results rather than the Insight creation page
 
-❗️Typically actually creating an Insight isn't required—the key is for the user to come away understanding that Insights can be created from the Insights page or from search results. 
-
-The hardest part, and most valuable thing to help with, for most customers and non-Sourcegraph-power-users is refining the regular expression or literal search that actually helps them track what they need. You can direct them to the in-product templates, also [listed here](https://docs.sourcegraph.com/code_insights/references/common_use_cases), but even better is to leave time to work with them to set up the query they need. 
+❗️Typically actually creating an Insight isn't required—the key is for the user to come away understanding that Insights can be created from the Insights page or from search results.
 
 ### Conclusion
 
